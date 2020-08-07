@@ -8,6 +8,7 @@ A social website from which we can make friends,groups,blogs and send messages w
 3. HTML
 4. CSS
 5. JQuery
+6. SQL database
 
 1.  How to Install NetBeans 8.2
 ## 1.1  How to Install NetBeans on Windows
@@ -34,4 +35,11 @@ You can launch NetBeans from the "Applications".
 Notes: To uninstall NetBeans, drag the "/Applications/NetBeans" folder to trash.
 
 Then open the project folder
+after opening the project in ide you have to add jar files to project:
+Step 1: right click on add library/jar file 
+Step 2: then add all jar files that are in jar files folder 
+Step 3: copy all jar files on desktop too.
+database folder is to provide database values that i have taken if u want to make your own data base that good otherwise you can use min also 
+to use database you have to import database file in your sql database software 
+now you ready to go 
 Run Welcome.html 
